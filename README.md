@@ -50,17 +50,22 @@ Analysis on Logistic Regression on the basis of parameters and specifications:
 ![image](https://user-images.githubusercontent.com/87660206/232232040-85727731-5927-43c0-9a32-5c696dbbde94.png)
 
 Analysis on SVM on the basis of different parameters and finding the optimal paramters using Grid Search: 
+
 ![image](https://user-images.githubusercontent.com/87660206/232232045-53122345-06e7-45e0-9301-3881a64ca6f4.png)
 
-ROC-AUC Curve:
 
 ![image](https://user-images.githubusercontent.com/87660206/232232041-3eb3d92b-ac06-4bc3-ba3f-b003a5e2cff2.png)
 
+ROC-AUC Curve:
 
 ![image](https://user-images.githubusercontent.com/87660206/232232088-a6112c3b-5129-473f-bcdf-39008f959c4e.png)
 
 
 ![image](https://user-images.githubusercontent.com/87660206/232232092-f5af650b-51dd-45e8-a99c-daccffa06500.png)
+
+
+![image](https://user-images.githubusercontent.com/87660206/232233324-7e39540a-9bc4-4641-b732-7c39323a4467.png)
+
 
 
 
